@@ -1,0 +1,9 @@
+            *****HVLT component Info*****
+ Size of .text   section in HVLT component is = 1458Bytes
+ Size of .rodata section in HVLT component is = 31Bytes
+
+ Size of .data   section in HVLT component is = 122Bytes
+ Size of .bss    section in HVLT component is = 92Bytes
+
+ -> Size of ROM in HVLTcomponent is = 1489Bytes
+ -> Size of RAM in HVLTcomponent is = 214Bytes

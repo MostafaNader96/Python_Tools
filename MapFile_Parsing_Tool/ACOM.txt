@@ -1,0 +1,9 @@
+            *****ACOM component Info*****
+ Size of .text   section in ACOM component is = 12Bytes
+ Size of .rodata section in ACOM component is = 0Bytes
+
+ Size of .data   section in ACOM component is = 0Bytes
+ Size of .bss    section in ACOM component is = 0Bytes
+
+ -> Size of ROM in ACOMcomponent is = 12Bytes
+ -> Size of RAM in ACOMcomponent is = 0Bytes
