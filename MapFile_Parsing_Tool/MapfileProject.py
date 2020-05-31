@@ -1,5 +1,12 @@
 import sys,re
 
+################################################################################
+## MapFile Parsing tool opens the map file and parse some data into an external
+## text files.
+## It parses the .text, .rodata memory sizes and adds them into the ROM size
+## It parses the .data, .bss    memory sizes and adds them into the RAM size 
+################################################################################
+
 MapString1=[]
 MapFile_name='Project_Memory_Map_File.map'
 

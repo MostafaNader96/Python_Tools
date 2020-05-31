@@ -8,6 +8,16 @@
 ## WARNING! All changes made in this file will be lost when recompiling UI file!
 ################################################################################
 
+#################################################################################
+## DIO_Configuration tool generates a _confih.h file including the configurations
+## of the 32 pins included in the atmega32 microcontroller according to the users
+## choice between the configuration parameters and saved this file in a path 
+## chosen by the user.
+## All the configurations are choses through a simple GUI
+#################################################################################
+
+
+
 from PySide2.QtCore import (QCoreApplication, QMetaObject, QObject, QPoint,
     QRect, QSize, QUrl, Qt,SIGNAL)
 from PySide2.QtGui import (QBrush, QColor, QConicalGradient, QFont,

@@ -1,6 +1,12 @@
 import os
 
-
+#This Tool takes a Driver's name as an input from the user and generates five files in a directory:
+#Name_config.h
+#Name_register.h
+#Name_private.h
+#Name_interface.h
+#Name_program.c
+#The program.c file contains the other four files included inside it as #define "name_xxxx.h"
 
 def CreateDriver():
   
