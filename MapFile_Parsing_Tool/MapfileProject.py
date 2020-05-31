@@ -7,6 +7,7 @@ import sys,re
 ## It parses the .data, .bss    memory sizes and adds them into the RAM size 
 ################################################################################
 
+
 MapString1=[]
 MapFile_name='Project_Memory_Map_File.map'
 
